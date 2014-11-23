@@ -29,4 +29,4 @@ This project is a spawn of --> [ProjectIrrationalMondriaan](https://github.com/D
 
 Written and only tested with Mac OS X Yosemite, Xcode 6.1 and I used a Nightly Build openFrameworks (wanted to test some new upcoming functionality)
 
-A short description on how to install this software can be found in this projects [wiki](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition_no_II-/wiki)
+A short description on how to install this software can be found in this projects [wiki](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition-No-1--Lozenge-with-four-lines-/wiki)
