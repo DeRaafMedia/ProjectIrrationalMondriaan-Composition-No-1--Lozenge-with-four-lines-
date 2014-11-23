@@ -21,11 +21,11 @@ This project is a spawn of --> [ProjectIrrationalMondriaan](https://github.com/D
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition-No-1--Lozenge-with-four-lines-/blob/master/bin/data/Irrational%20Mondriaan_4.png)
 
-(This specific painitng is "touch" reactive (viewer needs to punch the painting for an effect). The "hit array" is the part that stays white in the middle (I wouldn't dare to call it a square) on way how this punch reactivness could be achiefed is draw below. This is the way I did it 6 years ago as a quick an dirty test, there are far beter ways of doing this).
+(This specific painitng is "touch" reactive (viewer needs to punch the painting for an effect). The "hit array" is the part that stays white in the middle (I wouldn't dare to call it a square) one way how this punch reactiveness could be achieved is draw below. This is the way I did it 6 years ago as a quick an dirty test, there are far beter ways of doing this).
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition-No-1--Lozenge-with-four-lines-/blob/master/bin/data/Interactive-Projection_screen.png)
 
-(provided here is an Arduino sketch that allows for four buttons to be connected to test this painting instead of a reactive screen. [example]())
+(provided here is an Arduino sketch that allows for four buttons to be connected to test this painting instead of a touch reactive screen. [Example](http://youtu.be/hnNtRRQw1Zc) of this painting working with this setup)
 
 Written and only tested with Mac OS X Yosemite, Xcode 6.1 and I used a Nightly Build openFrameworks (wanted to test some new upcoming functionality)
 
